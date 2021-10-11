@@ -37,7 +37,7 @@ They were no real issues dealing with the making of my twitter.
 
 ## License
 
-    Copyright [2021] [Farouk Ganiyu Adewumi]
+    Copyright [2021] [Olusegun Joseph Adeyemo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
